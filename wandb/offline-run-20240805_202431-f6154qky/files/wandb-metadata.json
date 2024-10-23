@@ -1,0 +1,44 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.10.6",
+    "heartbeatAt": "2024-08-05T12:24:31.152352",
+    "startedAt": "2024-08-05T12:24:31.097150",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "E:\\WorkSpace\\ylolov8\\ultralytics-main\\train.py",
+    "codePath": "train.py",
+    "host": "PC-20210508BTWQ",
+    "username": "ASUS",
+    "executable": "D:\\miniconda3\\envs\\pytorch\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2904.0,
+        "min": 0.0,
+        "max": 2904.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2904.0,
+            "min": 0.0,
+            "max": 2904.0
+        }
+    ],
+    "disk": {
+        "total": 311.00194931030273,
+        "used": 72.44538116455078
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12884901888
+        }
+    ],
+    "memory": {
+        "total": 31.842243194580078
+    }
+}

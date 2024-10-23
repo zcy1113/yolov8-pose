@@ -1,0 +1,9 @@
+path: E:\WorkSpace\ylolov8s\ultralytics-main\datasets
+train: E:\WorkSpace\ylolov8\ultralytics-main\datasets\images\train
+val: E:\WorkSpace\ylolov8\ultralytics-main\datasets\images\test
+
+
+names:
+   0 : box_b
+
+kpt_shape: [4, 2]  #
