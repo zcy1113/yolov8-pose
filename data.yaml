@@ -1,9 +1,12 @@
-path: E:\WorkSpace\ylolov8s\ultralytics-main\datasets
-train: E:\WorkSpace\ylolov8\ultralytics-main\datasets\images\train
-val: E:\WorkSpace\ylolov8\ultralytics-main\datasets\images\test
+path: data path
+train: train path
+val: val path
 
+flip_idx: [1, 0, 3, 2,] # 设置数据翻转
 
 names:
-   0 : box_b
+   0 : person
+  
 
-kpt_shape: [4, 2]  #
+
+ 
